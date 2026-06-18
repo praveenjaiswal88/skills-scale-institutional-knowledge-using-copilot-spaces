@@ -24,7 +24,7 @@ Our projects succeed through well-defined roles and regular communication cadenc
 - **Developers:** Implement features with quality in mind, collaborate on design and testability
 - **QA/Testing:** Validate acceptance criteria and quality standards
 
-For detailed role definitions and personas, see [**Roles & Personas**](#roles--personas).
+For detailed role definitions and personas, see [**Roles & Personas**](octoacme-roles-and-personas.md).
 
 ## Key Workflows & Quality Practices
 
